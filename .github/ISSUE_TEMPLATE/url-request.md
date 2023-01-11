@@ -7,11 +7,9 @@ assignees: ''
 
 ---
 
-**URL:**
-Site URL
+**URL**: Site URL
 
-**Type:**
-Steam, Discord, ect.
+**Type:** Steam, Discord, ect.
 
 **Additional context:**
 Screenshots and/or description.
